@@ -1,0 +1,6 @@
+fastapi
+pydantic[email-validator]
+motor
+pymongo
+python-jose
+bcrypt
